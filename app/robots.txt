@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bocilviraldoodstream.pages.dev/sitemap.xml
